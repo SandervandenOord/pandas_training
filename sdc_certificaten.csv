@@ -1,0 +1,93 @@
+id,personeel,certificaat,jaar_behaald
+92,MoHe,DA-100 - Data Analyst Associate,2021
+95,WeGr,SnowPro Core,2021
+30,JiWe,767 - Implementing a Data Warehouse,2020
+40,WeGr,AZ-900 - Azure Fundamentals,2020
+42,MaLa,AZ-900 - Azure Fundamentals,2020
+43,LaSo,AZ-900 - Azure Fundamentals,2020
+44,JeBo,AZ-900 - Azure Fundamentals,2020
+45,JaVo,AZ-900 - Azure Fundamentals,2020
+46,FaVe,AZ-900 - Azure Fundamentals,2020
+49,TaVo,DP-200 - Implementing an Azure Data Solution,2020
+50,JiWe,SnowPro Core,2020
+51,PaMe,SnowPro Core,2020
+52,MaWi,DP-200 - Implementing an Azure Data Solution,2020
+53,MaWi,DP-201 - Designing an Azure Data Solution,2020
+54,SaOo,Google cloud Professional Data Engineer,2020
+55,BeEi,SnowPro Core,2020
+56,KoMi,SnowPro Core,2020
+57,StTi,DP-200 - Implementing an Azure Data Solution,2020
+59,TiOr,AZ-900 - Azure Fundamentals,2020
+60,TiOr,DP-200 - Implementing an Azure Data Solution,2020
+62,HeHo,DP-200 - Implementing an Azure Data Solution,2020
+63,DiBa,SnowPro Core,2020
+71,DiBa,AZ-900 - Azure Fundamentals,2020
+74,MeTi,SnowPro Core,2020
+76,MaWi,3088 - Azure Data Engineer Associate,2020
+85,StTi,AZ-900 - Azure Fundamentals,2020
+94,FeBe,AZ-900 - Azure Fundamentals,2020
+26,HeHo,761 - Querying Data with Transact-SQL,2019
+27,JiWe,761 - Querying Data with Transact-SQL,2019
+28,StTi,761 - Querying Data with Transact-SQL,2019
+29,HeHo,762 - Developing SQL Databases,2019
+33,TiOr,767 - Implementing a Data Warehouse,2019
+35,PaPr,768 - Developing SQL Datamodel,2019
+36,TaVo,768 - Developing SQL Datamodel,2019
+37,TiOr,768 - Developing SQL Datamodel,2019
+38,JoWo,778 - Analyzing and Visualizing Data with Microsoft Power BI,2019
+58,StTi,Scrum Master,2019
+61,TiOr,Scrum Master,2019
+64,KoSt,DP-200 - Implementing an Azure Data Solution,2019
+66,KoSt,DP-201 - Designing an Azure Data Solution,2019
+67,KoSt,3088 - Azure Data Engineer Associate,2019
+73,MiNa,Scrum Master,2019
+75,MaWi,AZ-900 - Azure Fundamentals,2019
+82,BeEi,AZ-900 - Azure Fundamentals,2019
+89,ReRe,Scrum Master,2019
+93,KoSt,AZ-303 - Microsoft Azure Architect Technologies,2019
+31,PaPr,767 - Implementing a Data Warehouse,2018
+32,TaVo,767 - Implementing a Data Warehouse,2018
+34,FeBe,768 - Developing SQL Datamodel,2018
+39,TaVo,778 - Analyzing and Visualizing Data with Microsoft Power BI,2018
+78,MaWi,Scrum Master,2018
+12,TaVo,461 - Querying Microsoft SQL Server 2012/2014,2017
+48,FaVe,Scrum Master,2017
+65,LaSo,Certified Data Vault Modeler,2017
+70,DiBa,Certified Data Vault Modeler,2017
+1,BaBo,Anchor Certifid Modeler,2016
+83,BeEi,Anchor Certifid Modeler,2016
+88,ReRe,461 - Querying Microsoft SQL Server 2012/2014,2016
+90,ReRe,Anchor Certifid Modeler,2016
+7,BeEi,461 - Querying Microsoft SQL Server 2012/2014,2015
+13,FeBe,462 - Administering Microsoft SQL Server 2012/2014 Databases,2015
+68,LaSo,Scrum Master,2015
+72,DiBa,Prince2 Foundation,2015
+91,ReRe,Certified Data Vault Modeler,2015
+8,DiBa,461 - Querying Microsoft SQL Server 2012/2014,2014
+17,FeBe,463 - Implementing a Data Warehouse with Microsoft SQL Server 2012/2014,2014
+21,JaSt,466 - Implementing Data Models and Reports with Microsoft SQL Server,2014
+24,RiPu,467 - Designing Business Intelligence Solutions with Microsoft SQL Server,2014
+3,ViWy,457 - Transition your MCTS on SQL Server 2008 to MCSA: SQL Server 2012 -Part 1,2013
+4,ViWy,458 - Transition your MCTS on SQL Server 2008 to MCSA: SQL Server 2012 -Part 2,2013
+5,KoSt,457 - Transition your MCTS on SQL Server 2008 to MCSA: SQL Server 2012 -Part 1,2013
+6,KoSt,458 - Transition your MCTS on SQL Server 2008 to MCSA: SQL Server 2012 -Part 2,2013
+9,FeBe,461 - Querying Microsoft SQL Server 2012/2014,2013
+11,RiPu,461 - Querying Microsoft SQL Server 2012/2014,2013
+14,JaSt,462 - Administering Microsoft SQL Server 2012/2014 Databases,2013
+15,RiPu,462 - Administering Microsoft SQL Server 2012/2014 Databases,2013
+16,JaSt,463 - Implementing a Data Warehouse with Microsoft SQL Server 2012/2014,2013
+18,RiPu,463 - Implementing a Data Warehouse with Microsoft SQL Server 2012/2014,2013
+19,JaSt,464 - Developing Microsoft SQL Server Databases,2013
+20,JaSt,465 - Designing Database Solutions for Microsoft SQL Server,2013
+22,RiPu,466 - Implementing Data Models and Reports with Microsoft SQL Server,2013
+23,KoSt,466 - Implementing Data Models and Reports with Microsoft SQL Server,2013
+25,KoSt,467 - Designing Business Intelligence Solutions with Microsoft SQL Server,2013
+81,BeEi,Scrum Master,2013
+84,KoSt,Certified Data Vault Modeler,2013
+10,JaSt,461 - Querying Microsoft SQL Server 2012/2014,2012
+79,BeEi,Prince2 Foundation,2012
+80,BeEi,Prince2 Practitioner,2012
+2,BaBo,Prince2 Foundation,2010
+87,JeZu,Prince2 Practitioner,2009
+86,JeZu,Prince2 Foundation,2008
+77,MaWi,Prince2 Foundation,2005
